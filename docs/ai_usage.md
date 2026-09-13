@@ -1,0 +1,2 @@
+I used AI during Module 3 to help me understand the Rosalind problems and to check my Python in Colab. I ran the code myself and submitted the answers on Rosalind.
+AI helped with explanations and notebook formatting. The work I turned in is what I ran and checked.
